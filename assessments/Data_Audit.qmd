@@ -28,13 +28,13 @@ format:
 
 ## Declaration of Authorship {.unnumbered .unlisted}
 
-I, [insert your name], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, Jiahao Wu, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
 ['Sign' your name here]
 
-Date:
+Date: 16/11/2022
 
-Student Number: 
+Student Number: 22081107
 
 ## Who collected the data?
 
@@ -42,11 +42,18 @@ An inline citation: As discussed on @insideairbnb, there are many...
 
 A parenthetical citation: There are many ways to research Airbnb [see, for example, @insideairbnb].
 
-## Why did they collect it?
+The data is collected from publicly available information from the Airbnb site.
 
+## Why did they collect it?
+1. To facilitate public discussion.
+2. Data and information empower communities to understand, decide the role of renting residential homes to tourists.
+3. Quantifying the impact of short-term rentals on housing and residential communities.
+4. Creating a platform to support advocacy for policies to avoid the impacts of short-term rentals.
 ## How was it collected?
+The data utilizes public information compiled from the Airbnb website. No private information is being used. Names, photographs, listings and review details in many cities from all over the world are all publicly displayed on the Airbnb site. Data is verified, cleansed, analyzed and aggregated. Inside Airbnb uses an occupancy models "San Francisco Model" to verify whether properties are rent permanently or occasionally. The whole process involve technologies like Python, PostgreSQL, etc. 
 
 ## What useful information does it contain?
+
 
 ## To what extent is the data 'complete'?
 
